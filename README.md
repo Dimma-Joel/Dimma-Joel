@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dimma Joel</h1>
-<h3 align="center">I'm a frontend developer with a passion for creating clean, user-friendly, and responsive websites. I'm currently participating in a 200 Days of Code Challenge to enhance my skills in JavaScript and React. As a Co-Founder of Thrive Tech Africa - a vibrant community of expert developers, I love connecting and building great things with people. Let's collaborate!</h3>
+<h3 align="center">I'm a front-end developer passionate about creating clean, user-friendly, responsive websites. I'm participating in a 200 Days of Code Challenge to enhance my skills in JavaScript and React. As the co-founder of Thrive Tech Africa - a vibrant community of expert developers, I love connecting and building great things with people. Let's collaborate!</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimma-joel&" alt="dimma-joel" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimma-joel&label=Profile%20views&color=0e75b6&style=flat" alt="dimma-joel" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimma-joel" alt="dimma-joel" /></a> </p>
 
@@ -35,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimma-joel&show_icons=true&locale=en" alt="dimma-joel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimma-joel&" alt="dimma-joel" /></p>
+
 
 
 <!--
